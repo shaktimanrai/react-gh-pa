@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-gh-pa/static/css/main.3ac9ab5e.css",
+    "main.js": "/react-gh-pa/static/js/main.97abc9ce.js",
+    "static/media/Final Direct2U Logo-01.png": "/react-gh-pa/static/media/Final Direct2U Logo-01.ec5049a3ac13f084610d.png",
+    "index.html": "/react-gh-pa/index.html",
+    "main.3ac9ab5e.css.map": "/react-gh-pa/static/css/main.3ac9ab5e.css.map",
+    "main.97abc9ce.js.map": "/react-gh-pa/static/js/main.97abc9ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ac9ab5e.css",
+    "static/js/main.97abc9ce.js"
+  ]
+}
